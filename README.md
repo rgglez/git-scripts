@@ -6,6 +6,8 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/rgglez/git-scripts)
 [![Go Report Card](https://goreportcard.com/badge/github.com/rgglez/git-scripts)](https://goreportcard.com/report/github.com/rgglez/git-scripts)
 [![GitHub release](https://img.shields.io/github/release/rgglez/git-scripts.svg)](https://github.com/rgglez/git-scripts/releases/)
+![GitHub stars](https://img.shields.io/github/stars/rgglez/git-scripts?style=social)
+![GitHub forks](https://img.shields.io/github/forks/rgglez/git-scripts?style=social)
 
 Misc utils for GIT.
 
